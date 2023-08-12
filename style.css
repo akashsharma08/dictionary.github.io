@@ -24,7 +24,9 @@
 
 body {
     margin: 0;
-    background:linear-gradient(-135deg , #c850c0 , #4158d0);
+    background-image:url("4533600.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: white;
     display: flex;
     justify-content: center;
