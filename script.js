@@ -39,6 +39,7 @@ async function fetchAPI(word){
     } 
     catch (error) {
         console.log(error);
+        infText.innerHTML =`An unexpected Error occured!! Please try again after sometime.`;
     }
 }
 
